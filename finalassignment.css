@@ -1,0 +1,48 @@
+/*Primary Selectors*/
+body{
+	background-color: white;
+	color: #000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: large;
+}
+
+table{
+	width: 90%;
+	table-layout: fixed;
+}
+
+td{
+	vertical-align: top;
+	padding: 10px;
+	word-wrap: break-word;
+}
+
+ 
+
+/* Ids and classes*/
+
+#fullpage{
+	margin: 10px;
+	background-color: white;
+	color: blue;
+
+
+
+}
+
+.label_col{
+	text-align: left;
+	text-align-last: left;
+
+}
+
+.input_col{
+	text-align: left;
+}
+
+.feedback_col{
+	text-align: center;
+	vertical-align: middle;
+	color: LightGray;
+	font-size: small;
+}
